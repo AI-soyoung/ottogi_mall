@@ -7,36 +7,36 @@
 <table align="center">
   <tr height="155px">
     <td align="center" width="160px" height="155px">
-      <a href="https://github.com/"><img src=""/></a>
+      <a href="https://github.com/seohii66"><img src="https://avatars.githubusercontent.com/u/86870736?v=4"/></a>
     </td>
     <td align="center" width="160px" height="155px">
-      <a href="https://github.com/"><img src=""/></a>
+      <a href="https://github.com/Jaehyeonee"><img src="https://avatars.githubusercontent.com/u/92504386?v=4"/></a>
     </td>
     <td align="center" width="160px" height="155px">
       <a href="https://github.com/AI-soyoung"><img src="https://avatars.githubusercontent.com/u/126646180?v=4"/></a>
     </td>
     <td align="center" width="160px" height="155px">
-      <a href="https://github.com/"><img src=""/></a>
+      <a href="https://github.com/euvely"><img src="https://avatars.githubusercontent.com/u/102321531?v=4"/></a>
     </td>
     <td align="center" width="160px" height="155px">
-      <a href="https://github.com/"><img src=""/></a>
+      <a href="https://github.com/yyyeun"><img src="https://avatars.githubusercontent.com/u/38968449?v=4"/></a>
     </td>
   </tr>
   <tr height="80px">
     <td align="center" width="160px">
-      <a href="https://github.com/">김서희</a>
+      <a href="https://github.com/seohii66">김서희</a>
     </td>
     <td align="center" width="160px">
-      <a href="https://github.com/">안재현</a>
+      <a href="https://github.com/Jaehyeonee">안재현</a>
     </td>
     <td align="center" width="160px">
       <a href="https://github.com/AI-soyoung">임소영</a>
     </td>
     <td align="center" width="160px">
-      <a href="https://github.com/">최유진</a>
+      <a href="https://github.com/euvely">최유진</a>
     </td>
     <td align="center" width="160px">
-      <a href="https://github.com/">허예은</a>
+      <a href="https://github.com/yyyeun">허예은</a>
     </td>
   </tr>
 </table>
